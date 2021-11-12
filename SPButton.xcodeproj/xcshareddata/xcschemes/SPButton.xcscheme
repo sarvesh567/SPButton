@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "83CEB9A0273E2D4400982F8C"
-               BuildableName = "SPButton.framework"
+               BuildableName = "PButton.framework"
                BlueprintName = "SPButton"
                ReferencedContainer = "container:SPButton.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "83CEB9AA273E2D4500982F8C"
-               BuildableName = "SPButtonTests.xctest"
+               BuildableName = "PButtonTests.xctest"
                BlueprintName = "SPButtonTests"
                ReferencedContainer = "container:SPButton.xcodeproj">
             </BuildableReference>
@@ -61,7 +61,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "83CEB9A0273E2D4400982F8C"
-            BuildableName = "SPButton.framework"
+            BuildableName = "PButton.framework"
             BlueprintName = "SPButton"
             ReferencedContainer = "container:SPButton.xcodeproj">
          </BuildableReference>
